@@ -1,0 +1,16 @@
+{
+  "name": "@protolane/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunofin/core.git"
+  },
+  "author": "Bruno Finger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunofin/core/issues"
+  },
+  "homepage": "https://github.com/brunofin/core#readme"
+}
